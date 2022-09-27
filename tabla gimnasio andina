@@ -1,0 +1,58 @@
+<html>
+    <tdody>
+        <table border="1">
+            
+            <tr>
+                <td colspan="3"> <b>Invoice #123456789</b></td>
+                <td> <b>14 January 2025</b> </td>
+            </tr>
+            <tr>
+                <td colspan="2"> <b>Pay to:</b><br>
+                    Acme <br>
+                    123 main <br>
+                    Cutybille, Na 123
+                </td>
+                <td colspan="2"> <b>Customer:</b><br>
+                    Jhon Smith<br>
+                    321  Willow <br>
+                    Southeat North
+                </td>
+            </tr>    
+            <tr>
+                <td>
+                    
+                    <b>Name / Description</b>
+                
+                </td>
+                <td> Qty </td>
+                <th> @ </th>
+                <th> Cost </th>
+            </tr>
+            <tr>
+                <td>Paperclips</td>
+                <td>1000</td>
+                <td>1.00</td>
+                <td>10.00</td>
+            </tr>
+            <tr>
+                <td>Staples</td>
+                <td>100</td>
+                <td>1.00</td>
+                <td>100.00</td>
+            </tr>
+            <tr>
+                <td colspan="3">Subtotal</td>
+                <td>110.00</td>
+            </tr>
+            <tr>
+                <td Colspan = "2">Tax</td>
+                <td>8%</td>
+                <td>8.80</td>
+            </tr>
+            <tr>
+                <td Colspan="3">Grand total</td>
+                <td>$ 118.80</td>
+            </tr>
+        </table>
+    </tdody>
+</html>
